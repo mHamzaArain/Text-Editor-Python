@@ -25,3 +25,6 @@ Text Editor using tkinter module from python
 
 ###### Find & Replace of Choosen Sentense/Word
 - [x] Find & Replace of Choosen Sentense/Word
+
+#### Sentense/Word Counter
+- [x] Sentense/Word Counter at bottom
