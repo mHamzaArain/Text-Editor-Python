@@ -2,7 +2,8 @@
 Text Editor using tkinter module from python
 
 Demo [video](https://youtu.be/q6RBV_BHTrM)
-Another demo [video](Demo [video](https://youtu.be/q6RBV_BHTrM)
+
+Another demo [video](https://youtu.be/q6RBV_BHTrM)
 
 
 ![]( image/image.PNG )
