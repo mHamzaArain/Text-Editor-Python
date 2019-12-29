@@ -30,5 +30,5 @@ Another demo [video](https://youtu.be/q6RBV_BHTrM)
 ###### Find & Replace of Choosen Sentense/Word
 - [x] Find & Replace of Choosen Sentense/Word
 
-#### Sentense/Word Counter
-- [x] Sentense/Word Counter at bottom
+#### Character/Word Counter
+- [x] Character/Word Counter at bottom
