@@ -5,7 +5,7 @@ Demo [video](https://youtu.be/q6RBV_BHTrM)
 
 Another demo [video](https://youtu.be/q6RBV_BHTrM)
 
-![]( svg_img/pic.png )
+![]( svg_img/image.PNG )
 
 ## Features
 
